@@ -1,7 +1,5 @@
 # PINNpapers
 
-Contributed by [IDRL lab](https://github.com/idrl-lab).
-
 - [PINNpapers](#pinnpapers)
   - [Introduction](#introduction)
   - [Software](#software)
